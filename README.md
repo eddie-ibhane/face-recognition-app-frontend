@@ -1,1 +1,1 @@
-# face-check-app
+# face-recognition-app-frontend
